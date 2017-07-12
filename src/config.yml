@@ -1,0 +1,19 @@
+# event server 
+event:
+  host: localhost
+  port: 8089
+
+redis:
+# redis用于index竞价成功更新
+  indexaddr: localhost:6379
+# redis用于event去重的 
+  duplicateaddr: 192.168.0.11:31021
+
+# log
+log:
+  ip: 192.168.0.82
+  port: 24224
+  tag: event-test
+  level: Debug
+  appip: 192.168.0.14
+  appport: 10086
