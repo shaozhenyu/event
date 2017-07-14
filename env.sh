@@ -3,3 +3,6 @@ if [ -z "$GOPATH" ]; then
 else
 	export GOPATH=$GOPATH:$(pwd)
 fi
+
+echo "glide update"
+bash glide.sh
