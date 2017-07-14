@@ -5,7 +5,7 @@ import (
 	"log/syslog"
 	"os"
 
-	"utils/log/logrus"
+	"yoya/utils/log/logrus"
 )
 
 // SyslogHook to send logs via syslog.

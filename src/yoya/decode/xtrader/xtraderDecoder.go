@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	log "utils/log/logApi"
+	log "yoya/utils/log/logApi"
 )
 
 const XTRADER_TOKEN = "fd97371e5c1e4796851bd97c9a5c0f9b"

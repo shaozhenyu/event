@@ -19,9 +19,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"decode"
-	log "utils/log/logApi"
-	"utils/redis"
+	"yoya/decode"
+	log "yoya/utils/log/logApi"
+	"yoya/utils/redis"
 
 	"github.com/valyala/fasthttp"
 )

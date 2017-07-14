@@ -4,7 +4,7 @@ import (
 	"log/syslog"
 	"testing"
 
-	"utils/log/logrus"
+	"yoya/utils/log/logrus"
 )
 
 func TestLocalhostAddAndPrint(t *testing.T) {

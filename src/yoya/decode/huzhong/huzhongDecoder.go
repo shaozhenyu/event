@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strconv"
 
-	log "utils/log/logApi"
+	log "yoya/utils/log/logApi"
 )
 
 const HUZHONG_TOKEN = "98466a7b749a6b4509c61c65651bf58b6ad730f2"

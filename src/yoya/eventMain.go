@@ -15,11 +15,11 @@ package main
 import (
 	"fmt"
 
-	"events"
-	"handle"
-	log "utils/log/logApi"
-	"utils/redis"
-	"utils/yaml"
+	"yoya/events"
+	"yoya/handle"
+	log "yoya/utils/log/logApi"
+	"yoya/utils/redis"
+	"yoya/utils/yaml"
 
 	"github.com/buaazp/fasthttprouter"
 	"github.com/valyala/fasthttp"

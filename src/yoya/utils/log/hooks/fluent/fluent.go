@@ -1,7 +1,7 @@
 package fluent
 
 import (
-	"utils/log/logrus"
+	"yoya/utils/log/logrus"
 )
 
 const (
@@ -9,7 +9,6 @@ const (
 	TagField     = "tag"
 	MessageField = "message"
 )
-
 
 // FluentHook is logrus hook for fluentd.
 type FluentHook struct {

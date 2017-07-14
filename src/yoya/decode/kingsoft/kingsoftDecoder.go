@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"strconv"
 
-	log "utils/log/logApi"
+	log "yoya/utils/log/logApi"
 )
 
 type KingSoft struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	fluent "utils/log/hooks/fluent"
-	"utils/log/logrus"
+	fluent "yoya/utils/log/hooks/fluent"
+	"yoya/utils/log/logrus"
 )
 
 type LogConfig struct {

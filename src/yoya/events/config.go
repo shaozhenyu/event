@@ -13,7 +13,7 @@ Description: event config
 package events
 
 import (
-	log "utils/log/logApi"
+	log "yoya/utils/log/logApi"
 )
 
 type EventConfig struct {

@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"time"
 
-	log "utils/log/logApi"
+	log "yoya/utils/log/logApi"
 )
 
 const TimeZone = 28800 // 8h**60m*60s

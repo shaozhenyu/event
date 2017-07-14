@@ -13,11 +13,11 @@ Description: api handle
 package decode
 
 import (
-	"decode/adview"
-	"decode/baidu"
-	"decode/huzhong"
-	"decode/kingsoft"
-	"decode/xtrader"
+	"yoya/decode/adview"
+	"yoya/decode/baidu"
+	"yoya/decode/huzhong"
+	"yoya/decode/kingsoft"
+	"yoya/decode/xtrader"
 )
 
 //parse price interface
