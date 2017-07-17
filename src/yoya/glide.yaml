@@ -1,9 +1,0 @@
-package: yoya
-import:
-- package: github.com/buaazp/fasthttprouter
-- package: github.com/tinylib/msgp
-  subpackages:
-  - msgp
-- package: github.com/valyala/fasthttp
-- package: gopkg.in/redis.v5
-- package: gopkg.in/yaml.v2

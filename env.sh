@@ -4,5 +4,4 @@ else
 	export GOPATH=$GOPATH:$(pwd)
 fi
 
-echo "glide update"
-bash glide.sh
+export GOPATH=$GOPATH:/Users/shaozhenyu/work/git/utils
